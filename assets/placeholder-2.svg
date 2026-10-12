@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="示例图片二">
+  <rect width="800" height="600" fill="#f6ecec"/>
+  <rect x="120" y="120" width="240" height="240" rx="40" fill="#c48a8f" opacity=".2"/>
+  <rect x="440" y="240" width="240" height="240" rx="40" fill="#c48a8f" opacity=".3"/>
+  <text x="400" y="565" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', sans-serif" font-size="26" fill="#c48a8f" text-anchor="middle">换成你自己的照片 · 800 × 600</text>
+</svg>

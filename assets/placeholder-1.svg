@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="示例图片一">
+  <rect width="800" height="600" fill="#f6ecec"/>
+  <circle cx="560" cy="180" r="80" fill="#c48a8f" opacity=".28"/>
+  <path d="M80 520 L300 300 L440 420 L580 280 L740 520 Z" fill="#c48a8f" opacity=".22"/>
+  <text x="400" y="565" font-family="-apple-system, BlinkMacSystemFont, 'PingFang SC', sans-serif" font-size="26" fill="#c48a8f" text-anchor="middle">示例图片 · 800 × 600</text>
+</svg>
