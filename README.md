@@ -1,5 +1,7 @@
 # AboutZane · 个人说明书模板
 
+Demo：https://about.882007.xyz
+
 一份 **纯静态、零依赖** 的个人说明书（Personal Manual）单页网站模板。
 所有内容都写在一份 `content.md` 里，页面正文、左侧目录、锚点、滚动高亮全部自动生成 —— 改内容不需要碰 HTML 和 JavaScript。
 
